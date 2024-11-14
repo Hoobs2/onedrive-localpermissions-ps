@@ -4,6 +4,5 @@ Intune Remediation Script. Detects if the perissions on the OneDrive folder cont
 
 The Detection or Remediation can be changed to suit individual needs and deployment situations, it was originally created to be deployed as an Intune Remediation, necessitating the creation of separate detection and remediation scripts.
 
-====
 tldr: Remove local Admin permissions from local OneDrive Folder Structure.
-====
+=
