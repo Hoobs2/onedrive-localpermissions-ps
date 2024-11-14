@@ -1,8 +1,8 @@
 #==================
-#CHANGE **ONEDRIVEFOLDERNAME** TO THE ONEDRIVE - FOLDER NAME
+#CHANGE ONEDRIVEFOLDERNAME TO THE ONEDRIVE - FOLDER NAME
 #==================
 
-$onedriveFolderName = "**ONEDRIVEFOLDERNAME**"
+$onedriveFolderName = "ONEDRIVEFOLDERNAME"
 
 $excludedUsers = @('Public', 'ADMINISTRATOR', 'Default', 'defaultuser0')
 
